@@ -1,0 +1,102 @@
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+/* ================================================================ */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Rowdies:wght@700&display=swap");
+header {
+	font-family: roboto;
+	font-size: 30px;
+	font-weight: bold;
+}
+.wrapper {
+	background-color: rgb(228, 228, 228);
+}
+.main {
+	text-align: justify;
+	margin-left: 250px;
+	width: 1000px;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	font-style: italic;
+	padding-bottom: 20px;
+	text-align: center;
+	max-height: 85px;
+	overflow: visible;
+	text-shadow: 30px 10px 0.3px rgb(180, 164, 131);
+	color: rgb(121, 97, 45);
+}
+p {
+	font-size: 18px;
+}
+.parahraf-title {
+	max-height: 60px;
+	overflow: scroll;
+	text-decoration: underline;
+}
+.title2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 30px;
+	padding-bottom: 20px;
+}
+.parahraf1 {
+	max-height: 100px;
+	overflow: hidden;
+}
+.parahraf2 {
+	max-height: 100px;
+	overflow: auto;
+}
+.fields-indents {
+	max-width: 800px;
+	margin-left: 100px;
+}
+.imeg1 {
+	margin-left: 160px;
+	margin-top: 20px;
+}
+.functions {
+	max-width: 500px;
+	margin-left: 250px;
+}
+.red {
+}
+.text {
+	text-transform: uppercase;
+	font-style: oblique;
+}
+.imeg3 {
+	padding: 20px 0;
+	margin-left: 280px;
+}
+.paragraf-red {
+	font-family: cursive;
+}
+.paragraf2-red {
+	word-spacing: 10px;
+}
+.recommendations {
+}
+.recom {
+	letter-spacing: 10px;
+}
+.paragraf-recom {
+	text-indent: 30px;
+	line-height: 30px;
+}
+.imeg2 {
+	padding: 30px 150px;
+	width: 500px;
+}
+footer {
+	font-family: lobster;
+	font-size: 30px;
+	font-weight: bold;
+}
